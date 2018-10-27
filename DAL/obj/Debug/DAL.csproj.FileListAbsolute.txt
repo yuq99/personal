@@ -1,0 +1,4 @@
+F:\ASP\Personal\DAL\bin\Debug\DAL.dll
+F:\ASP\Personal\DAL\bin\Debug\DAL.pdb
+F:\ASP\Personal\DAL\obj\Debug\DAL.dll
+F:\ASP\Personal\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,7 @@
+F:\ASP\Personal\BLL\bin\Debug\BLL.dll
+F:\ASP\Personal\BLL\bin\Debug\BLL.pdb
+F:\ASP\Personal\BLL\bin\Debug\DAL.dll
+F:\ASP\Personal\BLL\bin\Debug\DAL.pdb
+F:\ASP\Personal\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\ASP\Personal\BLL\obj\Debug\BLL.dll
+F:\ASP\Personal\BLL\obj\Debug\BLL.pdb
